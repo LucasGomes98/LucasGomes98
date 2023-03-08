@@ -1,4 +1,13 @@
-### Hi there 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="assets/images/greetingsEveryone.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Lucas and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
 
 <!--
 **LucasGomes98/LucasGomes98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
